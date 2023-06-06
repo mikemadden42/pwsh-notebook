@@ -15,6 +15,7 @@ Get-ChildItem | Select-Object -Last 1
 
 # list aliases
 # Get-Alias
+Get-Alias gal
 
 # list commands
 # Get-Command
